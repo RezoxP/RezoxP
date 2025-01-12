@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning python and go.
 - 📫 How to reach me,
 - Telegram:https://t.me/Rezo_ne
-- 😄 Pronouns: Rezo
