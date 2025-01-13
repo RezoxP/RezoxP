@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and go.
 - to Reach me,
 <div align="center">
-  <a href="discordapp.com/users/762999732833746944" target="_blank">
+  <a href="https://discordapp.com/users/762999732833746944" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Rox&color=7289DA&logoColor=white&labelColor=&style=plastic" height="40" alt="discord logo"  />
   </a>
   <a href="https://t.me/Rezo_ne" target="_blank">
