@@ -34,7 +34,6 @@
 ## ⚡ Github Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RezoxP&show_icons=true&theme=dracula&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RezoxP&theme=dracula&hide_border=true" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RezoxP&theme=redical&radius=16&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
