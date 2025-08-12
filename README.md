@@ -36,9 +36,8 @@
 
 
 ## 🐍 Snatribution:
-<div align="center">
-<img src="https://raw.githubusercontent.com/RezoxP/RezoxP/output/snake.svg" alt="Snake animation" />
-</div>
+
+![snake gif](https://github.com/RezoxP/RezoxP/blob/output/github-snake-dark.svg)
 
 ---
 
