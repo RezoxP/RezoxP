@@ -1,48 +1,82 @@
 <div align="center">
-  <h1>👋 Hey! I'm Rezo</h1>
-
-  
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RezoxP.RezoxP&" alt="Visitor Badge" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY3NTg0MjEsIm5iZiI6MTczNjc1ODEyMSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTEzVDA4NDg0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ0MTAyOTFiMTZiNGI2NjE5Y2UwODU0MDU0Njk1NTlkYWJmZTMxZDMzYTYzNTQ2MDNmY2RjNzgwMmQxMWE3NzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.G_ru_X5bG62EGWpetsmEB3T4goZzPiG_O7Q3_qafBI8"  />
-</div>
-
-## 👀 About Me:
-- 🎯 I aim to become proficient in **Ethical Hacking** and Software Development.
-- 🔥 I'm currently learning **Python** , **Go** and **Rust** .
-- 🌱 Interested in open-source contributions.
-  
-
-
-## 🌐Contact me:
-<div align="center">
-  <a href="https://discordapp.com/users/762999732833746944" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Rox&color=7289DA&logoColor=white&labelColor=&style=plastic" height="40" alt="discord logo"  />
-    
-  </a>‎ 
-  <a href="https://t.me/Rezo_ne" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=Rezo&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="40" alt="telegram logo"  />
+  <h1>👋 Hey, I'm Rezo</h1>
+  <p>A passionate developer and cybersecurity enthusiast on a mission to build and secure the web.</p>
+  <a href="https://github.com/RezoxP">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=RezoxP.RezoxP&" alt="Visitor Badge" />
   </a>
 </div>
 
-
-
-## ⚡ Github Stats:
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RezoxP&theme=redical&radius=16&area=true&hide_border=true" alt="Activity Graph" />
+  <img height="170" src="https://user-images.githubusercontent.com/74038190/212284113-f9491743-7f28-4061-a359-f28b4e3a0933.gif" alt="Coding animation" />
 </div>
-
-
-## 🐍 Snatribution:
-
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/RezoxP/RezoxP/output/github-contribution-grid-snake-dark.svg" />
 
 ---
 
-### 🛠️ Support Me:
-If you're open to contributions or funding ideas:
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Support-ME-blue?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support Badge"></a>
-</div>
+### 🌱 About Me
+
+- 🎯 I'm on a journey to master **Ethical Hacking** and **Software Development**.
+- 🔥 Currently diving deep into **Python**, **Go**, and **Rust**.
+- 🤝 I’m looking to collaborate on interesting open-source projects.
+- 💬 Ask me about anything, I am happy to help!
+
+---
+
+### 💻 My Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo" />
+</p>
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=RezoxP&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rezo's GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RezoxP/RezoxP/output/snake.svg" alt="Snake animation" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RezoxP/RezoxP/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RezoxP/RezoxP/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RezoxP/RezoxP/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+### 📫 Get in Touch
+
+<p align="center">
+  <a href="https://discordapp.com/users/762999732833746944" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/Rezo_ne" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+  </a>
+</p>
