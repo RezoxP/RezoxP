@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RezoxP/RezoxP/output/snake.svg" alt="Snake animation" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/RezoxP/RezoxP/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <picture>
