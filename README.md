@@ -37,7 +37,7 @@
 
 ## 🐍 Snatribution:
 
-![snake gif](https://github.com/RezoxP/RezoxP/blob/output/github-snake-dark.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/RezoxP/RezoxP/output/github-contribution-grid-snake-dark.svg" />
 
 ---
 
