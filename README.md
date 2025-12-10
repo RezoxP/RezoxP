@@ -21,6 +21,29 @@
 
 ---
 
+### 📫 Get in Touch
+
+<p align="center">
+  <a href="https://discordapp.com/users/762999732833746944" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/Rezo_ne" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Activity & Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RezoxP/RezoxP/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RezoxP/RezoxP/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RezoxP/RezoxP/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ### 💻 My Tech Stack
 
 <p align="center">
@@ -45,38 +68,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo" />
-</p>
-
----
-
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=RezoxP&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rezo's GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/RezoxP/RezoxP/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RezoxP/RezoxP/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RezoxP/RezoxP/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RezoxP/RezoxP/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-### 📫 Get in Touch
-
-<p align="center">
-  <a href="https://discordapp.com/users/762999732833746944" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/Rezo_ne" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
-  </a>
 </p>
