@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey, I'm Rezo</h1>
-  <p>A passionate developer and cybersecurity enthusiast on a mission to build and secure the web.</p>
+  <p>A passionate developer that creates goodies :)</p>
   <a href="https://github.com/RezoxP">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=RezoxP.RezoxP&" alt="Visitor Badge" />
   </a>
