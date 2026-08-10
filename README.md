@@ -15,7 +15,7 @@
 ### 🌱 About Me
 
 - 🎯 I'm on a journey to master **Ethical Hacking** and **Software Development**.
-- 🔥 Currently diving deep into **Python**, **Go**, and **Rust**.
+- 🔥 Currently diving deep into **Python** and **Go**.
 - 🤝 I’m looking to collaborate on interesting open-source projects.
 - 💬 Ask me about anything, I am happy to help!
 
